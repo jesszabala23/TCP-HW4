@@ -1,7 +1,7 @@
 # **Serve Me Up**
 
 ### Description
-     Using Node.js initiate a server that accepts command line user and save input to a text file.
+     Using Node.js initiate a server that accepts command line user and save password input to a text file.
 
 **_Given_** that the user is prompted with a question
 
