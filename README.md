@@ -21,7 +21,8 @@
 * Must have comments (pseudo code) explaining your code  
 * Create a `GitHub` repo for your server 
 * Commit to `GitHub` at least five times 
-* Submit `.js` file and `Github` link to Google classroom* The `userInput` file must use `node.js` `fs`  
+* Submit `.js` file and `Github` link to Google classroom
+* The `userInput` file must use `node.js` `fs`  
 * The `userInput` file shall use `inquirer` npm dependency 
 * The `userInput` file shall `require` the `greeting` file  
 * The `userInput` file shall `console.log` your greeting before `userQuestions` 
