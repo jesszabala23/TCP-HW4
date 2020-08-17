@@ -1,6 +1,7 @@
 # **Serve Me Up**
 
 ![Serve me up Preview](https://media.giphy.com/media/Ri2wCVJaNGtfcj12Jx/giphy.gif)
+![Serve me up Preview](https://www.linkpicture.com/view.php?img=LPic5f3b122f730461209214555)
 
 ### Description
      Using Node.js initiate a server that accepts command line user and save password input to a text file.
